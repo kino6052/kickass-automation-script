@@ -1,0 +1,35 @@
+{
+  "name": "kickass-automation-script",
+  "version": "1.0.0",
+  "description": "Script for General Bootstrapping of a Web Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kino6052/kickass-automation-script.git"
+  },
+  "keywords": [
+    "gulp",
+    "automation",
+    "web"
+  ],
+  "author": "Kirill A. Novik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kino6052/kickass-automation-script/issues"
+  },
+  "homepage": "https://github.com/kino6052/kickass-automation-script#readme",
+  "devDependencies": {
+    "babel-core": "^6.9.0",
+    "create-file": "^1.0.1",
+    "gulp": "^3.9.1",
+    "gulp-cli": "^1.2.1",
+    "gulp-inject": "^4.1.0"
+  },
+  "dependencies": {
+    "sass": "^0.5.0"
+  }
+}
