@@ -27,8 +27,10 @@
     "create-file": "^1.0.1",
     "delete": "^0.3.2",
     "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
     "gulp-cli": "^1.2.1",
-    "gulp-inject": "^4.1.0"
+    "gulp-inject": "^4.1.0",
+    "q": "^1.4.1"
   },
   "dependencies": {
     "bower": "^1.7.9",
