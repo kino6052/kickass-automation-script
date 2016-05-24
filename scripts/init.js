@@ -18,6 +18,7 @@ var content = `
   <![endif]-->
 </head>
 <body>
+` + parameters.CONTENT  + `
 <!-- inject:js -->
 <!-- endinject -->
 </body>
