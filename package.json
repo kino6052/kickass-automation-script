@@ -24,6 +24,7 @@
   "homepage": "https://github.com/kino6052/kickass-automation-script#readme",
   "devDependencies": {
     "babel-core": "^6.9.0",
+    "babel-preset-es2015": "^6.9.0",
     "create-file": "^1.0.1",
     "delete": "^0.3.2",
     "gulp": "^3.9.1",
