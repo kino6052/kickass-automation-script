@@ -4,3 +4,8 @@ node_js:
 before_script:
   - npm install -g gulp
 script: gulp
+
+# whitelist
+branches:
+  only:
+    - gulp-general
