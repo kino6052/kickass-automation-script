@@ -1,6 +1,6 @@
-# Gulp Boilerplate [![Build Status](https://travis-ci.org/kino6052/kickass-automation-script.svg)](https://travis-ci.org/kino6052/kickass-automation-script)
+# Gulp Boilerplate 
 
-My boilerplate for creating new web projects with [Gulp.js](http://gulpjs.com/). Made with help of various tutorials around the web.
+My boilerplate for creating new web projects with [Gulp.js](http://gulpjs.com/). Made with help of [gulp-boilerplate](https://github.com/cferdinandi/gulp-boilerplate) of various tutorials around the web.
 
 * Concatenates and Minifies JS files. [TODO: Lint JS Files]
 * Injects the File Paths into .html Documents
