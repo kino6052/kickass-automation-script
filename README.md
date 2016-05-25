@@ -1,4 +1,4 @@
-# Gulp Boilerplate 
+# Gulp Automation Script
 
 My boilerplate for creating new web projects with [Gulp.js](http://gulpjs.com/). Made with help of [gulp-boilerplate](https://github.com/cferdinandi/gulp-boilerplate) of various tutorials around the web.
 The current active branch is [gulp-general](https://github.com/kino6052/kickass-automation-script/tree/gulp-general)
